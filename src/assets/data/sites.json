@@ -1,0 +1,28 @@
+{
+    "links" : [
+        {
+            "title" : "homepage",
+            "comment" : "홈페이지",
+            "link" : "https://ortreat.kr",
+            "icoName" : "ico_homepage_sample.png"
+        },
+        {
+            "title" : "kakaoTalk",
+            "comment" : "카카오톡 채널",
+            "link" : "https://ortreat.kr",
+            "icoName" : "ico_kakao_sample.png"
+        },
+        {
+            "title" : "blog",
+            "comment" : "블로그",
+            "link" : "https://ortreat.kr",
+            "icoName" : "ico_blog_sample.png"
+        },
+        {
+            "title" : "instagram",
+            "comment" : "인스타그램",
+            "link" : "https://ortreat.kr",
+            "icoName" : "ico_instagram_sample.png"
+        }
+    ]
+}
