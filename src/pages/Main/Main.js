@@ -1,12 +1,13 @@
 import React, { Fragment } from "react";
-import { Description } from "../../components";
+import { Profile, Location } from "../../components";
 import SiteList from "../SiteList";
 
 const Main = () =>  (
     <Fragment>
         <div>Main Page</div>
-        <Description />
+        <Profile />
         <SiteList />
+        <Location />
     </Fragment>
     );
 

@@ -11,18 +11,25 @@ const LinkButton = (site) => {
         });
     },[]);
 
+    const goLink = () => {
+        window.location.href = site.link;
+    };
+
     return (
-        <div className={style.linkButton__mainbox}>
-            <div className={style.linkButton__title}>
-                {site.title}
-            </div>
+        <div className={style.linkButton__card} onClick={goLink} >
             <div className={style.linkButton__icon}>
                 <img src={image} />
             </div>
-            <div className={style.linkButton__comment}>
-                <a href={site.link}>
-                    {site.comment}
-                </a>
+            <div className={style.linkButton_textbox}>
+                <div className={style.linkButton__comment}>
+                        {site.comment}
+                </div>
+                <div className={style.linkButton__link}>
+                    {site.link}
+                </div>
+            </div>
+            <div className={style.linkButton__arrow}>
+                p
             </div>
         </div>
     )

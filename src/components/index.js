@@ -1,1 +1,2 @@
-export { default as Description } from './Description';
+export { default as Profile } from './Profile';
+export { default as Location } from './Location';

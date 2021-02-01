@@ -1,27 +1,50 @@
-div .linkButton__mainbox {
+div .linkButton__card {
     background: #fffbf2;
     margin: 12px;
     padding: 8px;
+
+    height: 50px;
+
+    position: relative;
     display: flex;
-}
+    text-align: center;
+    align-content: space-around;
 
-.linkButton__title {
-    display: none;
-}
 
-.linkButton__comment {
+    box-shadow: 10px, 10px, 50px, #000000;
 
-}
 
-.linkButton__link {
+    .linkButton__icon {
 
-}
+        width: 25%;
 
-.linkButton__icon {
-
-    img {
-        position: relative;
-        width: 20px;
-        height: 20px;
+        img {
+            width: 25px;
+            height: 25px;
+            top: 30px;
+        }
     }
+
+    .linkButton_textbox {
+
+        width: 50%;
+        text-align: left;
+
+        .linkButton__comment {
+
+        }
+        
+        .linkButton__link {
+        
+        }
+    }
+
+
+    .linkButton__arrow {
+
+        width: 25%;
+        text-align: right;
+        padding : 12px;
+    }
+
 }
