@@ -1,6 +1,7 @@
 import React, { Fragment } from "react";
 import { LinkButton } from "../../components/Modules";
 import sites from "../../assets/data/sites.json";
+import style from "./SiteList.module.scss"
 
 const links = sites.links;
 
@@ -17,7 +18,7 @@ const mapToLinkButton = ( data ) => {
 
 const SiteList = () => {
     return (
-        <div>
+        <div className={style.siteList__box}>
             {mapToLinkButton(links)}
         </div>
     )
