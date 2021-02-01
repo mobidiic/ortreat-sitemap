@@ -1,0 +1,2 @@
+(this.webpackJsonpsitemap=this.webpackJsonpsitemap||[]).push([[6],{21:function(s,a,t){"use strict";t.r(a),a.default=t.p+"static/media/ico_instagram_sample.b79433a6.png"}}]);
+//# sourceMappingURL=6.c3bd8e2f.chunk.js.map
