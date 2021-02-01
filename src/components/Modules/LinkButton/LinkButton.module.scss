@@ -79,5 +79,9 @@ div .linkButton__card {
 @media ( min-width: 768px ) {
     div .linkButton__card {
         width: 768px;
+
+        .linkButton__link {
+            font-family: "Nanum plus";
+        }
     }
 }
