@@ -20,7 +20,7 @@ const LinkButton = (site) => {
             <div className={style.linkButton__icon}>
                 <img src={image} />
             </div>
-            <div className={style.linkButton_textbox}>
+            <div className={style.linkButton__textbox}>
                 <div className={style.linkButton__comment}>
                         {site.comment}
                 </div>
