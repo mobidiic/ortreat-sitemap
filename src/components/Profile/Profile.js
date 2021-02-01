@@ -4,12 +4,11 @@ import style from "./Profile.module.scss";
 const Profile = () => {
     return (
         <div className={style.profile__card}>
-            Profile Component
             <div className={style.profile__title}>
-                profile title
+                Ort Bakery
             </div>
             <div className={style.profile__desc}>
-                profile description
+                <p>pet cake shop</p>
             </div>
         </div>
     )

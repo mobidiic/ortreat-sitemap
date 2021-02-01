@@ -17,10 +17,9 @@ const mapToLinkButton = ( data ) => {
 
 const SiteList = () => {
     return (
-        <Fragment>
-            <div> Site List </div>
+        <div>
             {mapToLinkButton(links)}
-        </Fragment>  
+        </div>
     )
 };
 

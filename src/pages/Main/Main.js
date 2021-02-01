@@ -4,7 +4,6 @@ import SiteList from "../SiteList";
 
 const Main = () =>  (
     <Fragment>
-        <div>Main Page</div>
         <Profile />
         <SiteList />
         <Location />

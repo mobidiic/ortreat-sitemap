@@ -28,8 +28,8 @@ const LinkButton = (site) => {
                     {site.link}
                 </div>
             </div>
-            <div className={style.linkButton__arrow}>
-                p
+            <div className={style.linkButton__arrow}>	
+                &#8250;
             </div>
         </div>
     )

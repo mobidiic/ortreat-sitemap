@@ -1,9 +1,32 @@
+
 // global style. usied by all scss files.
+
+//reset css
+@import "./reset.scss";
+
 
 // font
 @font-face {
-    font-family: 'D-DINS';
+    font-family: "Nanum plus";
+    src: url("./assets/fonts/NanumGothic.ttf") format('truetype');
+}
+
+@font-face {
+    //(영어, 숫자, 특수문자)인 경우 D-DIN 폰트 사용
+    font-family: "Nanum plus";
     src: url("./assets/fonts/D-DIN.ttf") format('truetype');
+    unicode-range: U+0020-007E;
+}
+
+@font-face {
+    //(영어, 숫자, 특수문자)인 경우, condensed 폰트
+    font-family: "Nanum plus condesed";
+    src: url("./assets/fonts/D-DINCondensed.ttf") format('truetype');
+    unicode-range: U+0020-007E;
+}
+
+body {
+    font-family: "Nanum plus";
 }
 
 // colors
