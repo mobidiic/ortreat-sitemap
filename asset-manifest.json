@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ortreat-sitemap/static/css/main.208ab7aa.chunk.css",
+    "main.css": "/ortreat-sitemap/static/css/main.303a89fb.chunk.css",
     "main.js": "/ortreat-sitemap/static/js/main.40e80025.chunk.js",
     "main.js.map": "/ortreat-sitemap/static/js/main.40e80025.chunk.js.map",
     "runtime-main.js": "/ortreat-sitemap/static/js/runtime-main.a705bf65.js",
@@ -18,7 +18,7 @@
     "static/js/7.511600ac.chunk.js": "/ortreat-sitemap/static/js/7.511600ac.chunk.js",
     "static/js/7.511600ac.chunk.js.map": "/ortreat-sitemap/static/js/7.511600ac.chunk.js.map",
     "index.html": "/ortreat-sitemap/index.html",
-    "static/css/main.208ab7aa.chunk.css.map": "/ortreat-sitemap/static/css/main.208ab7aa.chunk.css.map",
+    "static/css/main.303a89fb.chunk.css.map": "/ortreat-sitemap/static/css/main.303a89fb.chunk.css.map",
     "static/js/2.8a2d2141.chunk.js.LICENSE.txt": "/ortreat-sitemap/static/js/2.8a2d2141.chunk.js.LICENSE.txt",
     "static/media/styles.scss": "/ortreat-sitemap/static/media/NanumGothic.5f8eadfb.ttf",
     "static/media/ico_blog_sample.png": "/ortreat-sitemap/static/media/ico_blog_sample.e72bfb13.png",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.a705bf65.js",
     "static/js/2.8a2d2141.chunk.js",
-    "static/css/main.208ab7aa.chunk.css",
+    "static/css/main.303a89fb.chunk.css",
     "static/js/main.40e80025.chunk.js"
   ]
 }
