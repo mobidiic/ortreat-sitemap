@@ -80,8 +80,10 @@ div .linkButton__card {
     div .linkButton__card {
         width: 768px;
 
-        .linkButton__link {
-            font-family: "Nanum plus";
+        .linkButton__textbox{
+            .linkButton__link {
+                font-family: "Nanum plus";
+            }
         }
     }
 }
