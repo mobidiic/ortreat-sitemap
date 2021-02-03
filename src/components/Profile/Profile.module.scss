@@ -1,7 +1,8 @@
 
 div .profile__card {
 
-    margin: 50px;
+    padding: 50px;
+    padding-top: 25px;
 
     .profile__title {
         font-size : 3rem;
@@ -14,4 +15,23 @@ div .profile__card {
         margin-top : 10px;
     }
 
+}
+
+div .profile__img {
+
+    img {
+        position: relative;
+        width: 100%;
+    }
+}
+
+
+@media ( min-width: 768px ) {
+    div .profile__img {
+
+        img {
+            position: relative;
+            width: 768px;
+        }
+    }
 }
