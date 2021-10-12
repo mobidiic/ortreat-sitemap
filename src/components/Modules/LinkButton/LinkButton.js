@@ -18,7 +18,7 @@ const LinkButton = (site) => {
     };
 
     const setEllipsis = (text, max) => {
-        let maxText = max || 20;
+        let maxText = max || 23;
         return text.length > maxText ? text.substring(0, maxText) + "..." : text ;
     }
 
@@ -32,7 +32,7 @@ const LinkButton = (site) => {
                         {site.comment}
                 </div>
                 <div className={style.linkButton__link}>
-                    {setEllipsis(site.link,23)}
+                    <p className={style.overflow_ellipsis}>{site.link}</p>
                 </div>
             </div>
             <div className={style.linkButton__arrow}>	
