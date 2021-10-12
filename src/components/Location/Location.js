@@ -8,7 +8,7 @@ const Location = () => {
                 📞 +82 050-7136-5430
             </div>
             <div className={style.location__address}>
-                📬 서울 송파구 풍납동 500-2 번지
+                📬 서울 송파구 송파동 142-9번지 3층
             </div>
         </div>
     )

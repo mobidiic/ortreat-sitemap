@@ -1,6 +1,12 @@
 {
     "links" : [
         {
+            "title" : "how to order",
+            "comment" : "케이크 주문방법",
+            "link" : "https://m.blog.naver.com/from_treat/222534006214",
+            "icoName" : "ico_order.png"
+        },
+        {
             "title" : "homepage",
             "comment" : "홈페이지",
             "link" : "https://ortreat.kr",
