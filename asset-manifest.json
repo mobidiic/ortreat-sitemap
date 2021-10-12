@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ortreat-sitemap/static/css/main.04d5229c.chunk.css",
-    "main.js": "/ortreat-sitemap/static/js/main.d273b02d.chunk.js",
-    "main.js.map": "/ortreat-sitemap/static/js/main.d273b02d.chunk.js.map",
-    "runtime-main.js": "/ortreat-sitemap/static/js/runtime-main.d6b6479f.js",
-    "runtime-main.js.map": "/ortreat-sitemap/static/js/runtime-main.d6b6479f.js.map",
+    "main.js": "/ortreat-sitemap/static/js/main.1c9895f4.chunk.js",
+    "main.js.map": "/ortreat-sitemap/static/js/main.1c9895f4.chunk.js.map",
+    "runtime-main.js": "/ortreat-sitemap/static/js/runtime-main.b26b36ad.js",
+    "runtime-main.js.map": "/ortreat-sitemap/static/js/runtime-main.b26b36ad.js.map",
     "static/js/2.8aad6a4b.chunk.js": "/ortreat-sitemap/static/js/2.8aad6a4b.chunk.js",
     "static/js/2.8aad6a4b.chunk.js.map": "/ortreat-sitemap/static/js/2.8aad6a4b.chunk.js.map",
-    "static/js/3.8bda05ea.chunk.js": "/ortreat-sitemap/static/js/3.8bda05ea.chunk.js",
-    "static/js/3.8bda05ea.chunk.js.map": "/ortreat-sitemap/static/js/3.8bda05ea.chunk.js.map",
+    "static/js/3.e64e014f.chunk.js": "/ortreat-sitemap/static/js/3.e64e014f.chunk.js",
+    "static/js/3.e64e014f.chunk.js.map": "/ortreat-sitemap/static/js/3.e64e014f.chunk.js.map",
     "static/js/4.96bec1b3.chunk.js": "/ortreat-sitemap/static/js/4.96bec1b3.chunk.js",
     "static/js/4.96bec1b3.chunk.js.map": "/ortreat-sitemap/static/js/4.96bec1b3.chunk.js.map",
     "static/js/5.ffe1a26e.chunk.js": "/ortreat-sitemap/static/js/5.ffe1a26e.chunk.js",
@@ -17,6 +17,8 @@
     "static/js/6.a0c1fbde.chunk.js.map": "/ortreat-sitemap/static/js/6.a0c1fbde.chunk.js.map",
     "static/js/7.aa7a2c5c.chunk.js": "/ortreat-sitemap/static/js/7.aa7a2c5c.chunk.js",
     "static/js/7.aa7a2c5c.chunk.js.map": "/ortreat-sitemap/static/js/7.aa7a2c5c.chunk.js.map",
+    "static/js/8.12382d26.chunk.js": "/ortreat-sitemap/static/js/8.12382d26.chunk.js",
+    "static/js/8.12382d26.chunk.js.map": "/ortreat-sitemap/static/js/8.12382d26.chunk.js.map",
     "index.html": "/ortreat-sitemap/index.html",
     "static/css/main.04d5229c.chunk.css.map": "/ortreat-sitemap/static/css/main.04d5229c.chunk.css.map",
     "static/js/2.8aad6a4b.chunk.js.LICENSE.txt": "/ortreat-sitemap/static/js/2.8aad6a4b.chunk.js.LICENSE.txt",
@@ -24,13 +26,14 @@
     "static/media/ico_blog_sample.png": "/ortreat-sitemap/static/media/ico_blog_sample.e72bfb13.png",
     "static/media/ico_instagram_sample.png": "/ortreat-sitemap/static/media/ico_instagram_sample.b79433a6.png",
     "static/media/ico_kakao_sample.png": "/ortreat-sitemap/static/media/ico_kakao_sample.b19a1849.png",
+    "static/media/ico_order.png": "/ortreat-sitemap/static/media/ico_order.f7715dbb.png",
     "static/media/img_main.jpg": "/ortreat-sitemap/static/media/img_main.a8e1a266.jpg",
     "static/media/logo.6ce24c58.svg": "/ortreat-sitemap/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d6b6479f.js",
+    "static/js/runtime-main.b26b36ad.js",
     "static/js/2.8aad6a4b.chunk.js",
     "static/css/main.04d5229c.chunk.css",
-    "static/js/main.d273b02d.chunk.js"
+    "static/js/main.1c9895f4.chunk.js"
   ]
 }

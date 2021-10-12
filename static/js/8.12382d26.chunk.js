@@ -1,0 +1,2 @@
+(this.webpackJsonpsitemap=this.webpackJsonpsitemap||[]).push([[8],{25:function(s,t,i){"use strict";i.r(t),t.default=i.p+"static/media/ico_order.f7715dbb.png"}}]);
+//# sourceMappingURL=8.12382d26.chunk.js.map
