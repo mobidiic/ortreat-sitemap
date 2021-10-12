@@ -11,9 +11,16 @@ const LinkButton = (site) => {
         });
     },[]);
 
+
+
     const goLink = () => {
         window.location.href = site.link;
     };
+
+    const setEllipsis = (text, max) => {
+        let maxText = max || 20;
+        return text.length > maxText ? text.substring(0, maxText) + "..." : text ;
+    }
 
     return (
         <div className={style.linkButton__card} onClick={goLink} >
@@ -25,7 +32,7 @@ const LinkButton = (site) => {
                         {site.comment}
                 </div>
                 <div className={style.linkButton__link}>
-                    {site.link}
+                    {setEllipsis(site.link,23)}
                 </div>
             </div>
             <div className={style.linkButton__arrow}>	
