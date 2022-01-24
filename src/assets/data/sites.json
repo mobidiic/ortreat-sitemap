@@ -1,12 +1,6 @@
 {
     "links" : [
         {
-            "title" : "holidaySet",
-            "comment" : "설 간식세트 주문하기",
-            "link" : "https://m.blog.naver.com/from_treat/222624239836",
-            "icoName" : "ico_carrot.png"
-        }
-        ,{
             "title" : "how to order",
             "comment" : "케이크 주문방법",
             "link" : "https://m.blog.naver.com/from_treat/222534006214",
