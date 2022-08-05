@@ -7,6 +7,12 @@
             "icoName" : "ico_order.png"
         },
         {
+            "title" : "about class",
+            "comment" : "클래스 일정",
+            "link" : "https://m.blog.naver.com/from_treat/222839947784",
+            "icoName" : "ico_calendar.png"
+        },
+        {
             "title" : "homepage",
             "comment" : "홈페이지",
             "link" : "https://ortreat.kr",
