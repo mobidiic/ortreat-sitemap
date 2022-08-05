@@ -1,2 +1,0 @@
-(this.webpackJsonpsitemap=this.webpackJsonpsitemap||[]).push([[8],{25:function(a,s,p){"use strict";p.r(s),s.default=p.p+"static/media/ico_kakao_sample.b19a1849.png"}}]);
-//# sourceMappingURL=8.32a9cccb.chunk.js.map
