@@ -6,7 +6,7 @@ const Main = () =>  (
     <Fragment>
         <Profile />
         <SiteList />
-        <Location />
+        {/* <Location /> */}
     </Fragment>
     );
 

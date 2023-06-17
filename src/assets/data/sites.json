@@ -1,10 +1,10 @@
 {
     "links" : [
         {
-            "title" : "how to order",
-            "comment" : "케이크 주문방법",
-            "link" : "https://m.blog.naver.com/from_treat/222534006214",
-            "icoName" : "ico_order.png"
+            "title" : "homepage",
+            "comment" : "홈페이지",
+            "link" : "https://tartortreat.modoo.at",
+            "icoName" : "ico_homepage_sample.png"
         },
         {
             "title" : "youtube",
@@ -13,22 +13,10 @@
             "icoName" : "ico_youtube.png"
         },
         {
-            "title" : "homepage",
-            "comment" : "홈페이지",
-            "link" : "https://ortreat.kr",
-            "icoName" : "ico_homepage_sample.png"
-        },
-        {
             "title" : "kakaoTalk",
             "comment" : "카카오톡 채널",
             "link" : "https://pf.kakao.com/_xgQkgxb",
             "icoName" : "ico_kakao_sample.png"
-        },
-        {
-            "title" : "blog",
-            "comment" : "블로그",
-            "link" : "https://m.blog.naver.com/from_treat",
-            "icoName" : "ico_blog_sample.png"
         },
         {
             "title" : "instagram",
